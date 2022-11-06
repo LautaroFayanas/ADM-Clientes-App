@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lautaro",
+      "empresa": "sAdesigN",
+      "email": "fayanaslautaroagustin@gmail.com",
+      "telefono": "01133745530",
+      "notas": "Hola mundo",
+      "id": 1
+    },
+    {
+      "nombre": "Pepe",
+      "empresa": "Spotify",
+      "email": "pepe@pepe.com",
+      "telefono": "783216",
+      "notas": "Hola soy pepe",
+      "id": 2
+    },
+    {
+      "nombre": "Camila",
+      "empresa": "Camila SA",
+      "email": "cami@cami.com",
+      "telefono": "43214",
+      "notas": "testing proyect",
+      "id": 3
+    }
+  ]
+}
